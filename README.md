@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine ben abbes</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebenabbes&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebenabbes" /> 07198</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebenabbes&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebenabbes" /></p>
 
 - 👨‍💻 All of my projects are available at [https://yassinebenabbes.github.io](https://yassinebenabbes.github.io)
 
